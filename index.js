@@ -59,7 +59,7 @@ const init = async () => {
     }
   });
 
-  client.login(config.token);
+  client.login(process.env.token);
 };
 
 init();
