@@ -1,10 +1,10 @@
 {
-	"token": "",
-	"ownerID": "",
-	"webhook": "",
-	"defaultPrefix": "",
-	"clientSecret": "",
-	"websiteURL": "",
+	"token": "Nohere:D",
+	"ownerID": "295335481179373568",
+	"webhook": "https://discordapp.com/api/webhooks/589626516543897601/va5kuE4kKybys41ZycSFH7lONLSOHKFdAGo0BDz2M6_4F8fXeKaNRRqAotqUxhuFJtxv",
+	"defaultPrefix": "knn!",
+	"clientSecret": "jP3kDImpCUyv654uaVTUIv9NdRwV8CTC",
+	"websiteURL": "https://noxer.herokuapp.com/",
 
 	"red": "0xffb3ba",
 	"orange": "0xffdfba",
