@@ -19,3 +19,5 @@
 
 ### Invite the bot!
 We have a hosted version of the bot and dashboard which you can view [here.](https://amigo.fun/)
+
+### Credits to Amigo.fun
